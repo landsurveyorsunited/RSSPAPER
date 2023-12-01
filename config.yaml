@@ -2,11 +2,21 @@
 title: Surveyor Weekly
 
 # Options: light, dark, sepia or clojure 
-theme: light
+theme: dark
 
 # Options: daily, weekly or all
 edition: weekly
 
 feeds:
+  - https://www.rssground.com/services/ebay-rss/5f594b519e6fc
+  - https://www.rssground.com/services/ebay-rss/5f594b519f4eb
+  - https://www.rssground.com/services/ebay-rss/5f594b51a0181
+  - https://www.rssground.com/services/ebay-rss/5f594b51a0e0c
+  - https://www.rssground.com/services/ebay-rss/5f594b51a1a70
+  - https://www.rssground.com/services/ebay-rss/5f594b51a26ea
+  - https://www.rssground.com/services/ebay-rss/5f594b51a3340
+  - https://www.rssground.com/services/ebay-rss/5f594b51a406b
+  - https://www.rssground.com/services/ebay-rss/60db732f8933a
+  - https://www.rssground.com/services/ebay-rss/60db732f8a494
   - https://landsurveyorsunited.com/video/feed/all
   - https://landsurveyorsunited.com/photo/feed/all
